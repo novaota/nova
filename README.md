@@ -1,5 +1,7 @@
 # Nova - Over The Air Updates
 
+<img width="400px" src="https://github.com/novaota/nova/blob/master/nova_logo.png?raw=true">
+
 Eine Reihe von Komponenten, hauptsächlich in GO geschrieben um OTA Updates für Fahrzeuge zu erproben.
 Diese sind im Rahmen einer Bachelorarbeit an der OTH Regensburg bei der PENTASYS AG in München entstanden.
 
