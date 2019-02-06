@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>nova_logo.png</file>
+    </qresource>
+</RCC>
