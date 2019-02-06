@@ -5,6 +5,10 @@
 Eine Reihe von Komponenten, hauptsächlich in GO geschrieben um OTA Updates für Fahrzeuge zu erproben.
 Diese sind im Rahmen einer Bachelorarbeit an der OTH Regensburg bei der PENTASYS AG in München entstanden.
 
+## Demonstration
+[![Demonstration](https://img.youtube.com/vi/rLNnW3DqzNI/maxresdefault.jpg)](https://youtu.be/rLNnW3DqzNI)
+
+
 ## Vorraussetzungen
 1. PostgreSQL Datenbank
 2. MQTT Broker
